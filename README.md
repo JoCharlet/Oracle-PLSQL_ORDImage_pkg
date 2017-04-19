@@ -1,7 +1,7 @@
 # Oracle-PLSQL_ORDImage_pkg
 School project with Oracle ORDImage to manipulate BLOBs image file
 
-[lien](pkg_ordimage_Jonathan_Charlet.sql)
+[lien](https://raw.githubusercontent.com/JoCharlet/Oracle-PLSQL_ORDImage_pkg/master/README.md)
 
 ````SQL
 --******************************************************************************
